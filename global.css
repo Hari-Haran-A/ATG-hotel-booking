@@ -1,0 +1,44 @@
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-2xs: 10.34px;
+  --font-size-xs: 12px;
+  --font-size-sm: 15px;
+  --font-size-base: 20px;
+  --font-size-lg: 24px;
+  --font-size-xl: 27.24px;
+
+  /* Colors */
+  --color-gold: #ffdf00;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-red: #e4000c;
+  --color-gainsboro: #d9d9d9;
+
+  /* Gaps */
+  --gap-2xs: 2px;
+  --gap-xs: 5.62px;
+  --gap-sm: 10px;
+  --gap-md: 14.65px;
+  --gap-lg: 15px;
+  --gap-xl: 20px;
+  --gap-2xl: 79.8px;
+
+  /* Paddings */
+  --padding-2xs: 2px;
+  --padding-xs: 4px;
+  --padding-sm: 10px;
+  --padding-md: 10.363636016845703px;
+  --padding-lg: 10.475334167480469px;
+  --padding-xl: 20px;
+
+  /* border radiuses */
+  --br-xs: 7px;
+  --br-sm: 8px;
+  --br-md: 10px;
+  --br-lg: 10.48px;
+  --br-xl: 15px;
+}
